@@ -67,6 +67,6 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yvette did her undergraduate studies at the University of Auckland, gaining a BA, BSc and BSc(Hons) majoring in Physics, Italian and Spanish before moving to Cambridge University on a Rutherford PhD Scholarship in 2010. She completed her PhD in the Cavendish Astrophysics Group in 2013 and was awarded a Trinity College Junior Research Fellowship in the same year. In 2017 she was awarded a Rutherford Discovery Fellowship which she took up at VUW in 2018.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Blah blah blah.
